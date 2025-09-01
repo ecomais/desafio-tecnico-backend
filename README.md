@@ -31,6 +31,7 @@ Para testar e depurar a conexão MQTT, recomendamos instalar o [**MQTT Explorer*
 ├── docker-compose.yml
 ├── ingestion/
 │   ├── Dockerfile
+│   ├── main.py
 │   └── requirements.txt
 ├── db/
 │   └── init.sql
